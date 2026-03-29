@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+google-adk==1.14.0
+httpx
+pydantic
+python-dotenv
